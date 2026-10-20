@@ -8,7 +8,7 @@ Everything runs on a laptop CPU with plain Python and NumPy. No GPU, no accounts
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/before-we-train
+git clone https://github.com/iws3/before-we-train.git
 cd before-we-train
 python -m venv .venv && source .venv/bin/activate     # optional
 pip install -r requirements.txt

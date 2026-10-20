@@ -1,5 +1,8 @@
 # Before We Train
 
+<img width="2000" height="840" alt="before-we-train-cover-v3" src="https://github.com/user-attachments/assets/b9abe358-fd85-4e2c-a86f-0d92d711af79" />
+
+
 Companion code for the blog series **Before We Train: the mathematics and engineering of the data
 behind AI**, written for builders working with limited compute, funding and institutional backing.
 

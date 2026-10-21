@@ -1,3 +1,6 @@
+# running code here to execute there
+
+
 """1.3.3  Scaling laws with real numbers.
 
     L(N, D) = E + A / N^alpha + B / D^beta

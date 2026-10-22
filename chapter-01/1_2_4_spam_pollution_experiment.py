@@ -1,6 +1,6 @@
 """1.2.4  Proof in code: clean vs spam-polluted training.
 
-1.2.3 derived, for a model that learns the data distribution perfectly:
+1.2.3 derived, for a model that learns the data distribution perfectly here:
 
     perplexity inflation on clean text  =  1 / (1 - eps)        (eps = spam share)
 
